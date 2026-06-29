@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="desktopIcon.png" alt="FTN Hud Manager Logo" width="150"/>
   <h1>FTN HUD Manager</h1>
   
   [![Version](https://img.shields.io/badge/Version-7.5.0-blue.svg?style=flat-square)](#)
@@ -30,6 +29,28 @@
 - **Dynamic Customization:** Full control over HUD aesthetics, allowing live modifications of colors and styles to adapt to the corporate identity of any league or tournament.
 - **Hybrid Data Management:** Architecture based on SQLite3 for high-speed local operations and Supabase support for cloud data management.
 - **Optimized Architecture:** Developed with cutting-edge technologies (Electron, React, Vite, and TailwindCSS) to guarantee fluidity, stability, and efficient use of system resources.
+
+<details>
+  <summary>Click to see the App</summary>
+  <br/>
+  
+  <img width="49%" alt="1" src="https://github.com/user-attachments/assets/0b1a2b25-f2a9-4549-af8d-7435eedc0d63" />
+  <img width="49%" alt="2" src="https://github.com/user-attachments/assets/c9ae995d-baf2-4041-aec0-c7e2e82adcc1" />
+  
+  <img width="49%" alt="3" src="https://github.com/user-attachments/assets/cd102bd5-6a0a-4831-b81d-4f4106f6a0c9" />
+  <img width="49%" alt="4" src="https://github.com/user-attachments/assets/aca58620-71c8-4e26-98c0-29db3197fb56" />
+  
+  <img width="49%" alt="5" src="https://github.com/user-attachments/assets/04c1a82a-856d-4c38-8cd0-006f43b49aaf" />
+  <img width="49%" alt="51" src="https://github.com/user-attachments/assets/27f5eed2-299e-478e-b30f-e56b37eab5f2" />
+  
+  <img width="49%" alt="6" src="https://github.com/user-attachments/assets/7549a38e-64bc-4d73-9891-653c82d7d552" />
+  <img width="49%" alt="7" src="https://github.com/user-attachments/assets/0224c06e-f068-4960-b3f3-99fc4e84912f" />
+  
+  <img width="49%" alt="71" src="https://github.com/user-attachments/assets/7c64ab17-6031-486d-9463-c6aa78ac478a" />
+  <img width="49%" alt="8" src="https://github.com/user-attachments/assets/17370149-a9c3-4d85-b1c8-17135ab66def" />
+  
+  <img width="49%" alt="9" src="https://github.com/user-attachments/assets/a6dcdbbb-1081-4eef-8416-c06c5cb7ff98" />
+</details>
 
 ### Licensing and Contact
 
@@ -62,6 +83,28 @@ For commercial inquiries, licensing, custom installation, or technical support, 
 - **Personalización Dinámica:** Control total sobre la estética del HUD, permitiendo modificaciones en vivo de colores y estilos para adaptarse a la identidad corporativa de cualquier liga o torneo.
 - **Gestión Híbrida de Datos:** Arquitectura basada en SQLite3 para operaciones locales de alta velocidad y soporte de Supabase para la gestión de datos en la nube.
 - **Arquitectura Optimizada:** Desarrollado con tecnologías de vanguardia (Electron, React, Vite y TailwindCSS) para garantizar fluidez, estabilidad y un uso eficiente de los recursos del sistema.
+
+<details>
+  <summary>Clickea para ver la App</summary>
+  <br/>
+  
+  <img width="49%" alt="1" src="https://github.com/user-attachments/assets/0b1a2b25-f2a9-4549-af8d-7435eedc0d63" />
+  <img width="49%" alt="2" src="https://github.com/user-attachments/assets/c9ae995d-baf2-4041-aec0-c7e2e82adcc1" />
+  
+  <img width="49%" alt="3" src="https://github.com/user-attachments/assets/cd102bd5-6a0a-4831-b81d-4f4106f6a0c9" />
+  <img width="49%" alt="4" src="https://github.com/user-attachments/assets/aca58620-71c8-4e26-98c0-29db3197fb56" />
+  
+  <img width="49%" alt="5" src="https://github.com/user-attachments/assets/04c1a82a-856d-4c38-8cd0-006f43b49aaf" />
+  <img width="49%" alt="51" src="https://github.com/user-attachments/assets/27f5eed2-299e-478e-b30f-e56b37eab5f2" />
+  
+  <img width="49%" alt="6" src="https://github.com/user-attachments/assets/7549a38e-64bc-4d73-9891-653c82d7d552" />
+  <img width="49%" alt="7" src="https://github.com/user-attachments/assets/0224c06e-f068-4960-b3f3-99fc4e84912f" />
+  
+  <img width="49%" alt="71" src="https://github.com/user-attachments/assets/7c64ab17-6031-486d-9463-c6aa78ac478a" />
+  <img width="49%" alt="8" src="https://github.com/user-attachments/assets/17370149-a9c3-4d85-b1c8-17135ab66def" />
+  
+  <img width="49%" alt="9" src="https://github.com/user-attachments/assets/a6dcdbbb-1081-4eef-8416-c06c5cb7ff98" />
+</details>
 
 ### Adquisición y Contacto
 
